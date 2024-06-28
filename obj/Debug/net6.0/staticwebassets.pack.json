@@ -1,0 +1,357 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\restaurantMenu.bundle.scp.css",
+      "PackagePath": "staticwebassets\\restaurantMenu.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\css\\About_us.css",
+      "PackagePath": "staticwebassets\\css\\About_us.css"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\css\\menu.css",
+      "PackagePath": "staticwebassets\\css\\menu.css"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\images\\background.jpg",
+      "PackagePath": "staticwebassets\\images\\background.jpg"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\images\\bread-2777583_1280.jpg",
+      "PackagePath": "staticwebassets\\images\\bread-2777583_1280.jpg"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\images\\burger.jpg",
+      "PackagePath": "staticwebassets\\images\\burger.jpg"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\images\\chicken strips.jpg",
+      "PackagePath": "staticwebassets\\images\\chicken strips.jpg"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\images\\chicken with vegetables.jpg",
+      "PackagePath": "staticwebassets\\images\\chicken with vegetables.jpg"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\images\\choco cake.jpg",
+      "PackagePath": "staticwebassets\\images\\choco cake.jpg"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\images\\chocolate cake cup.jpg",
+      "PackagePath": "staticwebassets\\images\\chocolate cake cup.jpg"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\images\\cupcakes.jpg",
+      "PackagePath": "staticwebassets\\images\\cupcakes.jpg"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\images\\fried-food-735004_1280.jpg",
+      "PackagePath": "staticwebassets\\images\\fried-food-735004_1280.jpg"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\images\\fries-4601057_1280.jpg",
+      "PackagePath": "staticwebassets\\images\\fries-4601057_1280.jpg"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\images\\grilled chicken.jpg",
+      "PackagePath": "staticwebassets\\images\\grilled chicken.jpg"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\images\\hummus-1058000_1280.jpg",
+      "PackagePath": "staticwebassets\\images\\hummus-1058000_1280.jpg"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\images\\icecream.jpg",
+      "PackagePath": "staticwebassets\\images\\icecream.jpg"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\images\\kbab.jpg",
+      "PackagePath": "staticwebassets\\images\\kbab.jpg"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\images\\mixed grilled meat.jpg",
+      "PackagePath": "staticwebassets\\images\\mixed grilled meat.jpg"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\images\\our special viggie pizza.jpg",
+      "PackagePath": "staticwebassets\\images\\our special viggie pizza.jpg"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\images\\pexels-ash-376464.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-ash-376464.jpg"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\images\\pexels-karolina-grabowska-4963957.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-karolina-grabowska-4963957.jpg"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\images\\pexels-nataliya-vaitkevich-6275163.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-nataliya-vaitkevich-6275163.jpg"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\images\\steak tartare with eggs and chips.jpg",
+      "PackagePath": "staticwebassets\\images\\steak tartare with eggs and chips.jpg"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\images\\tomato pasta.jpg",
+      "PackagePath": "staticwebassets\\images\\tomato pasta.jpg"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\college projects\\second year\\RestaurantMenu proj\\restaurantMenu\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.restaurantMenu.props",
+      "PackagePath": "build\\restaurantMenu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.restaurantMenu.props",
+      "PackagePath": "buildMultiTargeting\\restaurantMenu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.restaurantMenu.props",
+      "PackagePath": "buildTransitive\\restaurantMenu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.restaurantMenu.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

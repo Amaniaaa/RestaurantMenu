@@ -1,0 +1,102 @@
+﻿@page
+@model restaurantMenu.Views.Home.ContactModel
+@{
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Contact  </title>
+    <style>
+        body {
+            background-color:whitesmoke; 
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .contact-info {
+            margin-bottom: 20px;
+        }
+
+        .contact-info h2 {
+            margin-bottom: 10px;
+        }
+
+        .contact-info p {
+            margin: 5px 0;
+        }
+
+        .contact-form {
+            margin-top: 40px;
+        }
+
+        .contact-form label,
+        .contact-form input,
+        .contact-form textarea,
+        .contact-form button {
+            display: block;
+            width: 100%;
+            margin-bottom: 10px;
+            box-sizing: border-box;
+            font-size: 16px;
+        }
+
+        .contact-form textarea {
+            height: 120px;
+        }
+
+        .contact-form button {
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+        .contact-form button:hover {
+            background-color: #45a049;
+        }
+    </style>
+       
+</head>
+<body>
+    <div class="container">
+        <img src="~/images/steak tartare with eggs and chips.jpg" height="500px" width="700px" />
+        <h1>Contact Us</h1>
+        <div class="contact-info">
+            <h2>Restaurant Address</h2>
+            <p> 92 El-Sayed El-Merghany, El-Montaza </p>
+            <p> Heliopolis </p>
+            <p> Cairo Governorate </p>
+        </div>
+        <div class="contact-info">
+            <h2>Phone Number</h2>
+            <p> 01050090738 </p>
+        </div>
+        <div class="contact-form">
+            <h2>Contact Form</h2>
+            <form action="your_server_script.php" method="post">
+                <label for="name">Name</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="message">Message</label>
+                <textarea id="message" name="message" required></textarea>
+
+                <button type="submit">Submit</button>
+            </form>
+
+        </div>
+    </div>
+</body>
+
+</html>
